@@ -1,3 +1,4 @@
+<img src="assets/GitHubBanner.png" alt="MoodTracker Banner" style="width:100%; border-radius: 10px;" />
 # 💖 MoodTracker App
 
 Welcome to **MoodTracker**, your adorably aesthetic mood journaling app!  
